@@ -21,14 +21,3 @@ def add_delimiters(fpath, delimiter=','):
 
 
 
-def plot_correlation(df, weather_variable, sales_variable, condition, condition_value, ax):
-    df= df[df[condition] == condition_value]
-    ax.scatter(df[weather_variable], df[sales_variable])
-    ax.set_xlabel(weather_variable)
-    ax.set_ylabel(sales_variable)
-    X = df[weather_variable].values.reshape(-1, 1)
-    y = df[sales_variable].values.reshape(-1, 1)
-    reg = LinearRegression().fit(X, y)
-    ax.plot(X, reg.predict(X), color="red")
-    corr = df[sales_variable].corr(df[weather_variable])
-    ax.set_title(f"{condition}: {condition_value}: Corr = {corr.round(2)}")
