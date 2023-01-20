@@ -1,0 +1,83 @@
+Cappuccino
+Flat White
+Cappuccino groß
+Caffé Latte
+Filterkaffee
+Caffé Latte doppelt
+Espresso Macchiato
+Espresso single
+Café Crème
+Doppio Macchiato
+Americano
+Hand Brew
+Americano groß
+Café Crème groß
+Doppio
+Extra Shot
+Oat Cappu klein
+Oat Flat
+Oat Cappu groß
+Oat Latte klein
+Oat Latte groß
+Hafer Cappuccino Groß
+Hafer Cappuccino
+Hafer Flat White
+Caffè Latte
+Caffè Latte Groß
+Hafer Espresso Macchiato
+Hafer Caffè Latte
+Hafer Caffè Latte Groß
+Decaf Caffè Latte Groß *
+Decaf Cappuccino *
+Decaf Flat White *
+Decaf Cappuccino Groß *
+Decaf Caffè Latte *
+Flat White auf Eis
+Hafer Flat White auf ice
+Hafer Espresso Macchiato dopio
+Decaf Espresso
+Decaf Flat White auf Ice
+Coldbrew
+Decaf doppio
+Decaf Espresso Macchiato *
+Decaf Americano
+Flat White auf Eis.
+Cold Brew
+Decaf Espresso Macchiato dopio *
+Espresso Doppio Macchiato
+Hafer Flat White auf Eis
+Espresso Doppio
+Espresso Single
+Espresso Tonic
+Decaf Cappuccino
+Hafer Caffè Latte groß
+Decaf Caffè Latte
+Decaf Espresso Single
+Decaf Flat White auf Eis
+Hafer Espresso Macchiato groß
+Decaf Cappuccino Groß
+Decaf Flat White
+Decaf Espresso Macchiato
+Decaf Caffè Latte Groß
+Hafer Food Cappuccino
+Hafer Food Flat White
+Hafer Food Cappuccino groß
+Hafer Food Caffe Latte groß
+Hafer Food Caffe Latte
+Decaf Americano Groß
+Cappuccino HaferTetra
+Cappuccino HaferTetra Groß
+Flat White HaferTetra
+Caffe Latte HaferTetra
+Decaf Espresso Doppio
+Decaf Espresso Macchiato Doppio
+Nitro Americano
+Hafer Caffè Latte doppelt
+Hafer Espresso Macchiato doppelt
+Cá Phê Sūa dá
+Cappuccino free
+Filterkaffee Free
+Café Latte Free
+Flat White Free
+Americano Free
+
