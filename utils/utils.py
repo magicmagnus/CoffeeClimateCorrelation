@@ -1,5 +1,4 @@
 import io
-from sklearn.linear_model import LinearRegression
 
 def add_delimiters(fpath, delimiter=','):
     """
