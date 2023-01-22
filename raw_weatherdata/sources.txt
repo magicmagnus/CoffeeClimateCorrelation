@@ -1,4 +1,4 @@
-EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 27-12-2022
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 22-01-2023
 THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
 
 Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
@@ -25,19 +25,19 @@ STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HG
 
  2763,111509,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, CC1,19530101,20220520,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391, CC7,19800101,20200229,     ,                    
- 2763,210274,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, QQ6,19891101,20221031,   11,National Climate Data Center (DWD)                
- 2763,111510,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, HU3,19530101,20221031,   11,National Climate Data Center (DWD)                
- 2763,111517,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TX3,19530101,20221031,   11,National Climate Data Center (DWD)                
- 2763,111515,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TG3,19530101,20221031,   11,National Climate Data Center (DWD)                
- 2763,111516,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TN3,19530101,20221031,   11,National Climate Data Center (DWD)                
- 2763,111512,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, RR3,19530101,20221031,   11,National Climate Data Center (DWD)                
+ 2763,210274,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, QQ6,19891101,20221231,   11,National Climate Data Center (DWD)                
+ 2763,111510,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, HU3,19530101,20221231,   11,National Climate Data Center (DWD)                
+ 2763,111517,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TX3,19530101,20221231,   11,National Climate Data Center (DWD)                
+ 2763,111515,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TG3,19530101,20221231,   11,National Climate Data Center (DWD)                
+ 2763,111516,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, TN3,19530101,20221231,   11,National Climate Data Center (DWD)                
+ 2763,111512,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, RR3,19530101,20221231,   11,National Climate Data Center (DWD)                
  2763,111511,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, PP2,19530101,20180227,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391,PP11,19800101,20200229,     ,                    
- 2763,111513,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, SD3,19530101,20221031,   11,National Climate Data Center (DWD)                
+ 2763,111513,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, SD3,19530101,20221231,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391, SD1,19820102,20200229,     ,                    
- 2763,111514,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, SS3,19891101,20221031,   11,National Climate Data Center (DWD)                
+ 2763,111514,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, SS3,19891101,20221231,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391, SS4,19930325,20200229,     ,                    
- 2763,115710,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, FX1,19530101,20221031,   11,National Climate Data Center (DWD)                
+ 2763,115710,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, FX1,19530101,20221231,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391, FX4,20000228,20200229,     ,                    
- 2763,115709,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, FG7,19530101,20221031,   11,National Climate Data Center (DWD)                
+ 2763,115709,STUTTGART/ECHTERDINGEN                  ,DE,+48:41:21,+009:13:31, 371, FG7,19530101,20221231,   11,National Climate Data Center (DWD)                
  2763,910738,STUTTGART-ECHTERDINGEN                  ,DE,+48:41:00,+009:14:00, 391, FG5,19800101,20190923,     ,                    

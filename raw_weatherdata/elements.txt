@@ -1,4 +1,4 @@
-EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 27-12-2022
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 22-01-2023
 THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
 
 Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
@@ -171,7 +171,7 @@ ELEID,DESC                                                                      
  HU17,Relative humidity, mean of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                                       ,1 %            
  HU18,Relative humidity, mean of 7, 14 and 19 CET                                                                                                           ,1 %            
  HU19,Mean relative humidity 0 - 0 local time (with changes to winter and summer time)                                                                      ,1 %            
- HU20,Mean relative humidity 0 - 0  UT  average from 96 15 min. values                                                                                      ,0.1 mm         
+ HU20,Mean relative humidity 0 - 0  UT  average from 96 15 min. values                                                                                      ,1 %            
   FX1,Maximum 3 second wind gust, 0-0 UT                                                                                                                    ,0.1 m/s        
   FX2,Maximum 2 second wind gust, 0-0 UT                                                                                                                    ,0.1 m/s        
   FX3,Maximum 10 second wind gust, 18-18 UT                                                                                                                 ,0.1 m/s        
@@ -204,7 +204,7 @@ ELEID,DESC                                                                      
  FG17,Average wind speed unknown interval                                                                                                                   ,0.1 m/s        
  FG18,Average wind speed, mean of 7, 14 and 19 CET                                                                                                          ,0.1 m/s        
  FG19,Average wind speed 0 - 0 local time (with changes to winter and summer time)                                                                          ,0.1 m/s        
- FG20,Average wind speed 0 - 0 UT  average from 96 15 min. values                                                                                           ,0.1 m/sec      
+ FG20,Average wind speed 0 - 0 UT  average from 96 15 min. values                                                                                           ,0.1 m/s        
   DD1,Average vectorial wind direction calculated from 3 measurements at 06, 12 and 18 UTC.                                                                 ,degrees        
   DD2,Wind direction at time of maximum gust                                                                                                                ,degrees        
   DD3,Average vectorial wind-speed-weighted wind direction calculated from 3 measurements at 06.30, 13.30 and 20.30 UTC                                     ,degrees        
