@@ -1,13 +1,32 @@
 # CoffeClimateCorrelation
 
-Sales data from SUEDHANG in /raw_data 
+In this projekt, we analysed whether coffee sales in Tübingen are correlated to weather variables such as temperatur, sunshine duration and precipitation.
 
-Raw coffee sales data is available on request due to privacy reasons.
+## Datasets
+For our weather dataset, we chose the historic weather data recordings from [ECAD](https://www.ecad.eu/) (European Climate Assessment & Dataset) . We chose the weather station in Stuttgart-Echterdingen. The data is available from 1951 to 2022. The data is available in the folder `/raw_weatherdata`. 
 
-
-Weather data from ECAD in /raw_weatherdata
-
-First run ```load_salesdata.ipynb```, then ```load_weatherdata.ipynb```, then ```plot_combined_data.ipynb```.
+For our coffee sales dataset, we got access to the sales data of a local café, the [SUEDHANG](https://www.suedhang.org/) . The data is available from 2020 to 2022. The data is located in the folder `/raw_coffee_sales`. However, raw coffee sales data is available only on request due to privacy reasons, here only the processed data is available in the folder `/processed_data`.
 
 
- 
+## Data processing
+The data processing is done in the jupyter notebooks. The data processing is done in the following order:
+
+1. `01_load_coffeesalesdata.ipynb`
+2. `02_load_weatherdata.ipynb`
+
+
+## Data analysis and results
+The data analysis is done in the jupyter notebooks `03_plot_combined_data.ipynb`
+
+## Authors
+Nadia Vohwinkel and Magnus Kaut
+
+put the hyperlink 
+hyperlink: [
+    ,
+    {
+        "text": "SUEDHANG",
+        "url": "https://www.suedhang.de/"
+    }
+    ]
+
