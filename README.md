@@ -11,8 +11,9 @@ For our coffee sales dataset, we got access to the sales data of a local café, 
 ## Data processing
 The data processing is done in the jupyter notebooks. The data processing is done in the following order:
 
-1. `01_load_coffeesalesdata.ipynb`
-2. `02_load_weatherdata.ipynb`
+1. `01_find_coffeproducts.ipynb`
+2. `01_load_coffeesalesdata.ipynb`
+3. `02_load_weatherdata.ipynb`
 
 
 ## Data analysis and results
