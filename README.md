@@ -22,12 +22,4 @@ The data analysis is done in the jupyter notebook `04_plot_combined_data.ipynb`
 ## Authors
 Nadia Vohwinkel and Magnus Kaut
 
-put the hyperlink 
-hyperlink: [
-    ,
-    {
-        "text": "SUEDHANG",
-        "url": "https://www.suedhang.de/"
-    }
-    ]
 
